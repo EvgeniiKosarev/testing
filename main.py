@@ -24,9 +24,4 @@ def smm(n):
     return numpy.prod(multiples)
 
 
-# new branch: m
-0
-0
-0
-0
-0
+
